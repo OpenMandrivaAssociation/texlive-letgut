@@ -1,6 +1,6 @@
 Name:		texlive-letgut
 Version:	64618
-Release:	1
+Release:	2
 Summary:	Class for the newsletter "La Lettre GUTenberg" of the French TeX User Group GUTenberg
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/letgut
