@@ -3,7 +3,7 @@ Version:	70491
 Release:	1
 Summary:	Class for the newsletter "La Lettre GUTenberg" of the French TeX User Group GUTenberg
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/letgut
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/letgut
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/letgut.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/letgut.doc.r%{version}.tar.xz
