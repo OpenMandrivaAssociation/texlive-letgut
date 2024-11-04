@@ -1,5 +1,5 @@
 Name:		texlive-letgut
-Version:	70491
+Version:	72713
 Release:	1
 Summary:	Class for the newsletter "La Lettre GUTenberg" of the French TeX User Group GUTenberg
 Group:		Publishing
